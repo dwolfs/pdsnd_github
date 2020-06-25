@@ -6,6 +6,8 @@ Project 3
 
 ### Description
 Version Control on Bikeshare Data
+- Documentation
+- Refactoring
 
 ### Files used
 Raw data:
@@ -16,6 +18,4 @@ chicago.csv
 Python code from Project 2: 
 bikeshare.py
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
